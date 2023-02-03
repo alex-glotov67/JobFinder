@@ -1,3 +1,4 @@
+# Job Finder App
 
 This repository contains MERN Stack application which is about looking for a job. You can register your profile as CV and follow new vacancies of various companies.
 
@@ -54,3 +55,11 @@ yarn start
 yarn install
 yarn start
 ```
+### UI Technology stack
+- React
+- React Hooks
+- React Router
+- React Redux (Saga)
+- TypeScript
+- Formik
+- yup
